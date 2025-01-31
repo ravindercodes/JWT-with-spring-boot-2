@@ -41,7 +41,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"username\":\"bb6@tuespot.com\",\n    \"password\":\"Tuespot@100\"\n}",
+					"raw": "{\n    \"username\":\"test@gmail.com\",\n    \"password\":\"Testing@100\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
